@@ -1,0 +1,264 @@
+[
+  {
+    "platform": "android",
+    "icon": {
+      "images": [
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-hdpi-icon",
+          "dimensions": [72, 72]
+        },
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-ldpi-icon",
+          "dimensions": [36, 36]
+        },
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-mdpi-icon",
+          "dimensions": [48, 48]
+        },
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-xhdpi-icon",
+          "dimensions": [96, 96]
+        },
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-xxhdpi-icon",
+          "dimensions": [144, 144]
+        },
+        {
+          "output": "resources/android/icon",
+          "name": "drawable-xxxhdpi-icon",
+          "dimensions": [192, 192]
+        }
+      ]
+    } ,
+    "splash": {
+      "images": [
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-hdpi-screen",
+          "dimensions": [800, 480]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-ldpi-screen",
+          "dimensions": [320, 240]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-mdpi-screen",
+          "dimensions": [480, 320]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-xhdpi-screen",
+          "dimensions": [1280, 720]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-xxhdpi-screen",
+          "dimensions": [1600, 960]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-land-xxxhdpi-screen",
+          "dimensions": [1920, 1280]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-hdpi-screen",
+          "dimensions": [480, 800]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-ldpi-screen",
+          "dimensions": [240, 320]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-mdpi-screen",
+          "dimensions": [320, 480]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-xhdpi-screen",
+          "dimensions": [720, 1280]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-xxhdpi-screen",
+          "dimensions": [960, 1600]
+        },
+        {
+          "output": "resources/android/splash",
+          "name": "drawable-port-xxxhdpi-screen",
+          "dimensions": [1280, 1920]
+        }
+      ]
+    } 
+  },
+  {
+    "platform": "ios",
+    "icon": {
+      "images": [
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-40",
+          "dimensions": [40, 40]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-40@2x",
+          "dimensions": [80, 80]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-40@3x",
+          "dimensions": [120, 120]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-50",
+          "dimensions": [50, 50]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-50@2x",
+          "dimensions": [100, 100]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-60",
+          "dimensions": [60, 60]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-60@2x",
+          "dimensions": [120, 120]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-60@3x",
+          "dimensions": [180, 180]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-72",
+          "dimensions": [72, 72]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-72@2x",
+          "dimensions": [144, 144]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-76",
+          "dimensions": [76, 76]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-76@2x",
+          "dimensions": [152, 152]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-83.5@2x",
+          "dimensions": [167, 167]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-small",
+          "dimensions": [29, 29]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-small@2x",
+          "dimensions": [58, 58]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon-small@3x",
+          "dimensions": [87, 87]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon",
+          "dimensions": [57, 57]
+        },
+        {
+          "output": "resources/ios/icon",
+          "name": "icon@2x",
+          "dimensions": [144, 144]
+        }
+      ]
+    } ,
+    "splash": {
+      "images": [
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-568h@2x~iphone",
+          "dimensions": [640, 1136]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-667h",
+          "dimensions": [750, 1334]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-736h",
+          "dimensions": [1242, 2208]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Landscape-736h",
+          "dimensions": [2208, 1242]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Landscape@~ipadpro",
+          "dimensions": [2732, 2048]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Landscape@2x~ipad",
+          "dimensions": [2048, 1536]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Landscape~ipad",
+          "dimensions": [1024, 768]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Portrait@~ipadpro",
+          "dimensions": [2048, 2732]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Portrait@2x~ipad",
+          "dimensions": [1536, 2048]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default-Portrait~ipad",
+          "dimensions": [768, 1024]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default@2x~iphone",
+          "dimensions": [640, 960]
+        },
+        {
+          "output": "resources/ios/splash",
+          "name": "Default~iphone",
+          "dimensions": [320, 480]
+        }
+      ]
+    } 
+  }
+]
