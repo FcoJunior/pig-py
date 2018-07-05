@@ -1,7 +1,7 @@
 import click
 from PIL import Image
 from resizeimage import resizeimage
-from utils.io import Io
+from .utils.io import Io
 import json
 import os
 
