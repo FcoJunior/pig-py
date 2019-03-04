@@ -6,7 +6,7 @@ import json
 import os
 
 @click.command()
-@click.argument('platform', type=click.Choice(['ionic'])) # To do: 'android', 'ios'
+@click.argument('platform', type=click.Choice(['ionic', 'ios'])) # To do: 'android'
 @click.option('--file', '-f', help='file name')
 @click.option('--output', '-o', default='./', help='destination folder of images')
 def main(platform, file, output):

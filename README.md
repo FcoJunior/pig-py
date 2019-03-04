@@ -16,8 +16,8 @@ pig [platform] [options]
 
 #### Platform types
 * ionic
+* ios
 * android `to do`
-* ios `to do`
 
 #### Options
 See options too using `pig --help`
@@ -29,5 +29,5 @@ See options too using `pig --help`
 
 #### Example
 ```
-pig ionic -n file.png
+pig ionic -f file.png
 ```

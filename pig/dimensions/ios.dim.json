@@ -1,0 +1,293 @@
+[
+    {
+      "platform": "ios",
+      "icon": {
+        "images": [
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-notification@2x",
+            "dimensions": [40, 40]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-notification@3x",
+            "dimensions": [60, 60]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-settings@1x",
+            "dimensions": [29, 29]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-settings@2x",
+            "dimensions": [58, 58]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-settings@3x",
+            "dimensions": [87, 87]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-spotlight@2x",
+            "dimensions": [80, 80]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-spotlight@3x",
+            "dimensions": [120, 120]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-app-57@1x",
+            "dimensions": [57, 57]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-app-57@2x",
+            "dimensions": [114, 114]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-app-60@2x",
+            "dimensions": [120, 120]
+          },
+          {
+            "output": "resources/iphone/icon",
+            "name": "iphone-app-60@3x",
+            "dimensions": [180, 180]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-notification@1x",
+            "dimensions": [20, 20]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-notification@2x",
+            "dimensions": [40, 40]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-settings@1x",
+            "dimensions": [29, 29]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-settings@2x",
+            "dimensions": [58, 58]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-spotlight-40@1x",
+            "dimensions": [40, 40]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-spotlight-40@2x",
+            "dimensions": [80, 80]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-spotlight-50@1x",
+            "dimensions": [50, 50]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-spotlight-50@2x",
+            "dimensions": [100, 100]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-app-72@1x",
+            "dimensions": [72, 72]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-app-72@2x",
+            "dimensions": [144, 144]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-app-76@1x",
+            "dimensions": [76, 76]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-app-76@2x",
+            "dimensions": [152, 152]
+          },
+          {
+            "output": "resources/ipad/icon",
+            "name": "ipad-pro@1x",
+            "dimensions": [167, 167]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-notification-38mm@2x",
+            "dimensions": [48, 48]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-notification-42mm@2x",
+            "dimensions": [55, 55]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-settings@2x",
+            "dimensions": [58, 58]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-settings@3x",
+            "dimensions": [87, 87]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-home-screen-38mm@2x",
+            "dimensions": [80, 80]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-home-screen-40mm@2x",
+            "dimensions": [88, 88]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-home-screen-44mm@2x",
+            "dimensions": [100, 100]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-short-look-38mm@2x",
+            "dimensions": [172, 172]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-short-look-40mm@2x",
+            "dimensions": [196, 196]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-short-look-44mm@2x",
+            "dimensions": [216, 216]
+          },
+          {
+            "output": "resources/watch/icon",
+            "name": "watch-app-store@1x",
+            "dimensions": [1024, 1024]
+          }
+        ]
+      } ,
+      "splash": {
+        "images": [
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-x-xs-port@1x",
+            "dimensions": [1125, 2436]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-x-xs-land@1x",
+            "dimensions": [2436, 1125]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-8plus-port@1x",
+            "dimensions": [1242, 2208]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-8-port@1x",
+            "dimensions": [750, 1334]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-8plus-land@1x",
+            "dimensions": [2208, 1242]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-7plus-port@2x",
+            "dimensions": [640, 960]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-7-retina4-port@2x",
+            "dimensions": [640, 1136]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-7plus-port@1x",
+            "dimensions": [768, 1024]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-7plus-port@2x",
+            "dimensions": [1536, 2048]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-7plus-land@1x",
+            "dimensions": [1024, 768]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-7plus-land@2x",
+            "dimensions": [2048, 1536]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-5-port@1x",
+            "dimensions": [320, 480]
+          },
+          {
+            "output": "resources/iphone/launch",
+            "name": "iphone-5-port@2x",
+            "dimensions": [640, 960]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-5-port@1x",
+            "dimensions": [768, 1024]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-5-port@2x",
+            "dimensions": [1536, 2048]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-5-land@1x",
+            "dimensions": [1024, 768]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-5-land@2x",
+            "dimensions": [2048, 1536]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-whitout-status-bar-5-port@1x",
+            "dimensions": [768, 1004]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-whitout-status-bar-5-port@2x",
+            "dimensions": [1536, 2008]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-whitout-status-bar-5-land@1x",
+            "dimensions": [1024, 748]
+          },
+          {
+            "output": "resources/ipad/launch",
+            "name": "ipad-whitout-status-bar-5-land@2x",
+            "dimensions": [2048, 1496]
+          }
+        ]
+      } 
+    }
+  ]

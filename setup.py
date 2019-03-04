@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-dependencies = ['click', 'python-resize-image']
+dependencies = ['click', 'python-resize-image', 'Pillow']
 
 with open("README.md", "r") as fh:
   long_description = fh.read()
@@ -20,7 +20,8 @@ setup(
   platforms='any',
   install_requires=dependencies,
   data_files=[('pig/dimensions', [
-    'pig/dimensions/ionic.dim.json'
+    'pig/dimensions/ionic.dim.json',
+    'pig/dimensions/ios.dim.json',
   ])],
   entry_points={
     'console_scripts': [
